@@ -3,6 +3,7 @@
 
 ## Authors: Utkrisht Rajkumar, Subrato Chakravorty, Taruj Goyal, Kaustav Datta
 
+### This project is no longer maintained.
 ### Description
 
 In this project, we experiment with various architectures (e.g. DenseNet+BGRU, DenseNet+Transformer, DenseNet+TCN, ConvNet+Transformer, etc) to determine the best end-to-end model for automated lip reading. We compare against LipNet based on this [pytorch-implementation](https://github.com/Fengdalu/LipNet-PyTorch). Our training procedures, data extraction and preprocessing, and evaluation scripts are mainly adapted from [Fengdalu/LipNet-PyTorch](Fengdalu/LipNet-PyTorch). 
